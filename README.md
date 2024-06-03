@@ -1,4 +1,5 @@
 # vqa
+
 ## paper note
 
 ### VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts
@@ -10,4 +11,7 @@
 ### Compact Trilinear Interaction for Visual Question Answering (to read)
 ### MUREL: Multimodal Relational Reasoning for Visual Question Answering (to read)
 ### Deep Modular Co-Attention Networks for Visual Question Answering (to read experiment)
+### MUTAN: Multimodal Tucker Fusion for Visual Question Answering
+### Bilinear Attention Networks
+### Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
 
