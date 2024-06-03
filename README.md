@@ -14,4 +14,6 @@
 ### MUTAN: Multimodal Tucker Fusion for Visual Question Answering
 ### Bilinear Attention Networks
 ### Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
+### BLOCK: Bilinear Superdiagonal Fusion for VQA and VRD (to read!)
+### Invertible Question Answering Network (iQAN) 
 
