@@ -16,4 +16,6 @@
 ### Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
 ### BLOCK: Bilinear Superdiagonal Fusion for VQA and VRD (to read!)
 ### Invertible Question Answering Network (iQAN) 
+### [Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering](https://github.com/yuzcccc/vqa-mfb) (MFB) (to read)
+### [Beyond Bilinear: Generalized Multimodal Factorized High-order Pooling for Visual Question Answering](https://github.com/yuzcccc/vqa-mfb) (MFH) (to read)
 
