@@ -12,7 +12,8 @@
 ### MUREL: Multimodal Relational Reasoning for Visual Question Answering (to read)
 ### Deep Modular Co-Attention Networks for Visual Question Answering (to read experiment)
 ### [MUTAN: Multimodal Tucker Fusion for Visual Question Answering](https://github.com/Cadene/vqa.pytorch)
-### Bilinear Attention Networks
+### [Hadamard Product for Low-rank Bilinear Pooling](https://github.com/jnhwkim/MulLowBiVQA) (MLB)
+### [Bilinear Attention Networks](https://github.com/jnhwkim/ban-vqa) (BAN)
 ### Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding
 ### BLOCK: Bilinear Superdiagonal Fusion for VQA and VRD (to read!)
 ### Invertible Question Answering Network (iQAN) 
