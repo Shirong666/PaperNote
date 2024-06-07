@@ -19,4 +19,5 @@
 ### Invertible Question Answering Network (iQAN) 
 ### [Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering](https://github.com/yuzcccc/vqa-mfb) (MFB) (to read)
 ### [Beyond Bilinear: Generalized Multimodal Factorized High-order Pooling for Visual Question Answering](https://github.com/yuzcccc/vqa-mfb) (MFH) (to read)
+### [LEARNING TO COUNT OBJECTS IN NATURAL IMAGES FOR VISUAL QUESTION ANSWERING](https://github.com/Cyanogenoid/vqa-counting) (learned paper and code)
 
