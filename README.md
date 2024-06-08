@@ -15,7 +15,7 @@
 ### [Hadamard Product for Low-rank Bilinear Pooling](https://github.com/jnhwkim/MulLowBiVQA) (MLB)
 ### [Bilinear Attention Networks](https://github.com/jnhwkim/ban-vqa) (BAN) (learned paper and code)
 ### Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding (MCB) (learned paper)
-### [BLOCK: Bilinear Superdiagonal Fusion for VQA and VRD](https://github.com/Cadene/block.bootstrap.pytorch/tree/master) (to read! code includes many other model)
+### [BLOCK: Bilinear Superdiagonal Fusion for VQA and VRD](https://github.com/Cadene/block.bootstrap.pytorch/tree/master) (AAAI 2019) (to read! code includes many other models)
 ### Invertible Question Answering Network (iQAN) 
 ### [Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering](https://github.com/yuzcccc/vqa-mfb) (MFB) (to read)
 ### [Beyond Bilinear: Generalized Multimodal Factorized High-order Pooling for Visual Question Answering](https://github.com/yuzcccc/vqa-mfb) (MFH) (to read)
