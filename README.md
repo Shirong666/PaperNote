@@ -1,6 +1,6 @@
-# vqa
+# paper note 
 
-## paper note
+## VQA
 
 ### VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts
 ### LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection
@@ -21,3 +21,7 @@
 ### [Beyond Bilinear: Generalized Multimodal Factorized High-order Pooling for Visual Question Answering](https://github.com/yuzcccc/vqa-mfb) (MFH) (to read)
 ### [LEARNING TO COUNT OBJECTS IN NATURAL IMAGES FOR VISUAL QUESTION ANSWERING](https://github.com/Cyanogenoid/vqa-counting) (learned paper and code)
 
+
+## Multimodal
+
+### [Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/pdf/2209.03430)
