@@ -25,3 +25,6 @@
 ## Multimodal
 
 ### [Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/pdf/2209.03430)
+
+## VT Lifu Huang
+### [MULTISCRIPT: Multimodal Script Learning for Supporting Open Domain Everyday Tasks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76IEGtYAAAAJ&sortby=pubdate&citation_for_view=76IEGtYAAAAJ:fQNAKQ3IYiAC) (comment: a new database)
