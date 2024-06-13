@@ -28,3 +28,4 @@
 
 ## VT Lifu Huang
 ### [MULTISCRIPT: Multimodal Script Learning for Supporting Open Domain Everyday Tasks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76IEGtYAAAAJ&sortby=pubdate&citation_for_view=76IEGtYAAAAJ:fQNAKQ3IYiAC) (comment: a new database)
+### [MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning]
