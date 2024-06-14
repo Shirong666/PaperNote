@@ -20,6 +20,11 @@
 ### [Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering](https://github.com/yuzcccc/vqa-mfb) (MFB) (to read)
 ### [Beyond Bilinear: Generalized Multimodal Factorized High-order Pooling for Visual Question Answering](https://github.com/yuzcccc/vqa-mfb) (MFH) (to read)
 ### [LEARNING TO COUNT OBJECTS IN NATURAL IMAGES FOR VISUAL QUESTION ANSWERING](https://github.com/Cyanogenoid/vqa-counting) (learned paper and code)
+### [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998)
+### [Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge](https://arxiv.org/pdf/1708.02711)
+### [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://arxiv.org/pdf/1806.07243)
+### [Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings](https://arxiv.org/pdf/1804.11146)
+### [Deep Multimodal Learning for Vision and Language Processing](http://remicadene.com/pdfs/thesis.pdf)
 
 
 ## Multimodal
