@@ -25,6 +25,7 @@
 ### [Learning Conditioned Graph Structures for Interpretable Visual Question Answering](https://arxiv.org/pdf/1806.07243)
 ### [Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings](https://arxiv.org/pdf/1804.11146)
 ### [Deep Multimodal Learning for Vision and Language Processing](http://remicadene.com/pdfs/thesis.pdf)
+### [VQA Survery](https://github.com/BDBC-KG-NLP/QA-Survey-CN)
 
 
 ## Multimodal
