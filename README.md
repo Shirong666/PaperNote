@@ -1,5 +1,7 @@
 # paper note 
 
+# Topic
+
 ## VQA
 
 ### VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts
@@ -31,6 +33,12 @@
 ## Multimodal
 
 ### [Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/pdf/2209.03430)
+
+## Video
+
+### [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/pdf/1412.0767)
+
+# Person
 
 ## VT Lifu Huang
 ### [MULTISCRIPT: Multimodal Script Learning for Supporting Open Domain Everyday Tasks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=76IEGtYAAAAJ&sortby=pubdate&citation_for_view=76IEGtYAAAAJ:fQNAKQ3IYiAC) (comment: a new database)
