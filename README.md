@@ -43,6 +43,7 @@
 ### [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/pdf/1711.11248) (R(2+1)D, 把3D网络拆封成空间2D，时间1D)
 ### [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982) (两个分支：一个帧率高消耗小，一个帧率低消耗高)
 ### [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095) (Timesformer: vision transformer 类似到 video transformer, 各种做自注意力方法)
+### [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125) (DALL.E2)
 
 # Person
 
