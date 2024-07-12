@@ -34,6 +34,10 @@
 
 ### [Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/pdf/2209.03430)
 
+## Dataset
+
+### [Visual Genome Connecting Language and Vision Using Crowdsourced Dense Image Annotations](https://arxiv.org/pdf/1602.07332)
+
 ## Video
 
 ### dataset: UCF101, K400
