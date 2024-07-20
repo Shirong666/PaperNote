@@ -34,9 +34,13 @@
 
 ### [Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/pdf/2209.03430)
 
+### To read
+### [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/pdf/2406.06730)
+
 ## Dataset
 
 ### [Visual Genome Connecting Language and Vision Using Crowdsourced Dense Image Annotations](https://arxiv.org/pdf/1602.07332)
+### [MMSum: A Dataset for Multimodal Summarization and Thumbnail Generation of Videos](https://arxiv.org/pdf/2306.04216)
 
 ## Video
 
@@ -48,6 +52,14 @@
 ### [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982) (两个分支：一个帧率高消耗小，一个帧率低消耗高)
 ### [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095) (Timesformer: vision transformer 类似到 video transformer, 各种做自注意力方法)
 ### [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125) (DALL.E2)
+
+### To read
+### [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://arxiv.org/pdf/2301.07868)
+
+## Fairness
+
+### [Discover and Mitigate Multiple Biased Subgroups in Image Classifiers](https://arxiv.org/pdf/2403.12777)
+
 
 # Person
 
