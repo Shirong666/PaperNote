@@ -33,6 +33,7 @@
 ## Multimodal
 
 ### [Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/pdf/2209.03430)
+### [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334)
 
 ### To read
 ### [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/pdf/2406.06730)
