@@ -34,6 +34,10 @@
 
 ### [Foundations & Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions](https://arxiv.org/pdf/2209.03430)
 ### [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334)
+### [LANGUAGE-DRIVEN SEMANTIC SEGMENTATION](https://arxiv.org/pdf/2201.03546)(Lseg)
+### [GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094)(GroupViT)
+### [OPEN-VOCABULARY OBJECT DETECTION VIA VISION AND LANGUAGE KNOWLEDGE DISTILLATION](https://arxiv.org/pdf/2104.13921)(ViLD)
+### [Grounded Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)(GLIP)
 
 ### To read
 ### [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/pdf/2406.06730)
