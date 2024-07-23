@@ -63,8 +63,13 @@
 
 ## Fairness
 
+### [AI FAIRNESS 360: AN EXTENSIBLE TOOLKIT FOR DETECTING, UNDERSTANDING, AND MITIGATING UNWANTED ALGORITHMIC BIAS](https://arxiv.org/pdf/1810.01943)(AIF 360)
 ### [Discover and Mitigate Multiple Biased Subgroups in Image Classifiers](https://arxiv.org/pdf/2403.12777)
 
+### To read
+### [FairCLIP: Harnessing Fairness in Vision-Language Learning](https://arxiv.org/pdf/2403.19949)
+### [FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication](https://arxiv.org/pdf/2404.16123)
+### [Classes Are Not Equal: An Empirical Study on Image Recognition Fairness](https://arxiv.org/pdf/2402.18133)
 
 # Person
 
