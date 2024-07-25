@@ -58,6 +58,10 @@
 ### [Is Space-Time Attention All You Need for Video Understanding?](https://arxiv.org/pdf/2102.05095) (Timesformer: vision transformer 类似到 video transformer, 各种做自注意力方法)
 ### [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125) (DALL.E2)
 
+## 3D
+
+### [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://zju3dv.github.io/neuralrecon/)
+
 ### To read
 ### [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://arxiv.org/pdf/2301.07868)
 
