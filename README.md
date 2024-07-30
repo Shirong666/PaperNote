@@ -38,6 +38,9 @@
 ### [GroupViT: Semantic Segmentation Emerges from Text Supervision](https://arxiv.org/pdf/2202.11094)(GroupViT)
 ### [OPEN-VOCABULARY OBJECT DETECTION VIA VISION AND LANGUAGE KNOWLEDGE DISTILLATION](https://arxiv.org/pdf/2104.13921)(ViLD)
 ### [Grounded Language-Image Pre-training](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)(GLIP)
+### [CLIPasso: Semantically-Aware Object Sketching](https://arxiv.org/pdf/2202.05822)
+### [CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval](https://arxiv.org/pdf/2104.08860)
+### [ActionCLIP: A New Paradigm for Video Action Recognition](https://arxiv.org/pdf/2109.08472)
 
 ### To read
 ### [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/pdf/2406.06730)
