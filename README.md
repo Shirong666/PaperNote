@@ -1,4 +1,4 @@
-# paper note 
+# Paper Note 
 
 # Topic
 
@@ -80,6 +80,10 @@
 ### [FairCLIP: Harnessing Fairness in Vision-Language Learning](https://arxiv.org/pdf/2403.19949)
 ### [FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication](https://arxiv.org/pdf/2404.16123)
 ### [Classes Are Not Equal: An Empirical Study on Image Recognition Fairness](https://arxiv.org/pdf/2402.18133)
+
+## Information Retrieval
+
+### [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743)
 
 # Person
 
