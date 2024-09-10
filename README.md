@@ -44,6 +44,7 @@
 ### [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://arxiv.org/pdf/2107.06383)
 ### [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/pdf/2112.02413)
 ### [Can Language Understand Depth?](https://arxiv.org/pdf/2207.01077)
+### [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://aclanthology.org/2020.acl-demos.11.pdf)
 
 ### To read
 ### [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/pdf/2406.06730)
