@@ -46,6 +46,7 @@
 ### [Can Language Understand Depth?](https://arxiv.org/pdf/2207.01077)
 ### [GAIA: A Fine-grained Multimedia Knowledge Extraction System](https://aclanthology.org/2020.acl-demos.11.pdf)
 ### [TEXTEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction]
+### [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://arxiv.org/pdf/2402.05138)
 
 ### To read
 ### [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/pdf/2406.06730)
