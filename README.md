@@ -88,6 +88,11 @@
 
 ### [A Neural Corpus Indexer for Document Retrieval](https://arxiv.org/pdf/2206.02743)
 
+## AI + Tool
+
+### [ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph](https://arxiv.org/pdf/2403.00839)
+### [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models]
+
 # Person
 
 ## VT Lifu Huang
