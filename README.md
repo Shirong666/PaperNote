@@ -93,6 +93,11 @@
 ### [ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph](https://arxiv.org/pdf/2403.00839)
 ### [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models]
 
+## Optimize
+
+### [Robust Average-Reward Markov Decision Processes](https://arxiv.org/pdf/2301.00858)
+### [Constrained Reinforcement Learning Under Model Mismatch](https://arxiv.org/pdf/2405.01327)
+
 # Person
 
 ## VT Lifu Huang
