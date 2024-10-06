@@ -78,6 +78,8 @@
 
 ### [AI FAIRNESS 360: AN EXTENSIBLE TOOLKIT FOR DETECTING, UNDERSTANDING, AND MITIGATING UNWANTED ALGORITHMIC BIAS](https://arxiv.org/pdf/1810.01943)(AIF 360)
 ### [Discover and Mitigate Multiple Biased Subgroups in Image Classifiers](https://arxiv.org/pdf/2403.12777)
+### [MCRAGE: Synthetic Healthcare Data for Fairness](https://arxiv.org/pdf/2310.18430)
+### [FairEHR-CLP: Towards Fairness-Aware Clinical Predictions with Contrastive Learning in Multimodal Electronic Health Records](https://arxiv.org/pdf/2402.00955)(code)
 
 ### To read
 ### [FairCLIP: Harnessing Fairness in Vision-Language Learning](https://arxiv.org/pdf/2403.19949)
